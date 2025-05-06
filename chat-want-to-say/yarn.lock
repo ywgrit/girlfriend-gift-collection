@@ -125,7 +125,7 @@ anymatch@~3.1.2:
 
 binary-extensions@^2.0.0:
   version "2.2.0"
-  resolved "https://registry.nlark.com/binary-extensions/download/binary-extensions-2.2.0.tgz#75f502eeaf9ffde42fc98829645be4ea76bd9e2d"
+  resolved "https://registry.npmmirror.com/binary-extensions/download/binary-extensions-2.2.0.tgz#75f502eeaf9ffde42fc98829645be4ea76bd9e2d"
   integrity sha1-dfUC7q+f/eQvyYgpZFvk6na9ni0=
 
 braces@~3.0.2:
@@ -162,7 +162,7 @@ dayjs@^1.10.4:
 
 decimal.js@^10.2.1:
   version "10.3.1"
-  resolved "https://registry.nlark.com/decimal.js/download/decimal.js-10.3.1.tgz#d8c3a444a9c6774ba60ca6ad7261c3a94fd5e783"
+  resolved "https://registry.npmmirror.com/decimal.js/download/decimal.js-10.3.1.tgz#d8c3a444a9c6774ba60ca6ad7261c3a94fd5e783"
   integrity sha1-2MOkRKnGd0umDKatcmHDqU/V54M=
 
 esbuild-android-arm64@0.13.15:
@@ -280,7 +280,7 @@ estree-walker@^2.0.2:
 
 fill-range@^7.0.1:
   version "7.0.1"
-  resolved "https://registry.nlark.com/fill-range/download/fill-range-7.0.1.tgz#1919a6a7c75fe38b2c7c77e5198535da9acdda40"
+  resolved "https://registry.npmmirror.com/fill-range/download/fill-range-7.0.1.tgz#1919a6a7c75fe38b2c7c77e5198535da9acdda40"
   integrity sha1-GRmmp8df44ssfHflGYU12prN2kA=
   dependencies:
     to-regex-range "^5.0.1"
@@ -304,14 +304,14 @@ glob-parent@~5.1.2:
 
 has@^1.0.3:
   version "1.0.3"
-  resolved "https://registry.nlark.com/has/download/has-1.0.3.tgz?cache=0&sync_timestamp=1618847173393&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fhas%2Fdownload%2Fhas-1.0.3.tgz#722d7cbfc1f6aa8241f16dd814e011e1f41e8796"
+  resolved "https://registry.npmmirror.com/has/download/has-1.0.3.tgz?cache=0&sync_timestamp=1618847173393&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fhas%2Fdownload%2Fhas-1.0.3.tgz#722d7cbfc1f6aa8241f16dd814e011e1f41e8796"
   integrity sha1-ci18v8H2qoJB8W3YFOAR4fQeh5Y=
   dependencies:
     function-bind "^1.1.1"
 
 is-binary-path@~2.1.0:
   version "2.1.0"
-  resolved "https://registry.nlark.com/is-binary-path/download/is-binary-path-2.1.0.tgz#ea1f7f3b80f064236e83470f86c09c254fb45b09"
+  resolved "https://registry.npmmirror.com/is-binary-path/download/is-binary-path-2.1.0.tgz#ea1f7f3b80f064236e83470f86c09c254fb45b09"
   integrity sha1-6h9/O4DwZCNug0cPhsCcJU+0Wwk=
   dependencies:
     binary-extensions "^2.0.0"
@@ -325,7 +325,7 @@ is-core-module@^2.2.0:
 
 is-extglob@^2.1.1:
   version "2.1.1"
-  resolved "https://registry.nlark.com/is-extglob/download/is-extglob-2.1.1.tgz#a88c02535791f02ed37c76a1b9ea9773c833f8c2"
+  resolved "https://registry.npmmirror.com/is-extglob/download/is-extglob-2.1.1.tgz#a88c02535791f02ed37c76a1b9ea9773c833f8c2"
   integrity sha1-qIwCU1eR8C7TfHahueqXc8gz+MI=
 
 is-glob@^4.0.1, is-glob@~4.0.1:
@@ -342,7 +342,7 @@ is-number@^7.0.0:
 
 magic-string@^0.25.7:
   version "0.25.7"
-  resolved "https://registry.nlark.com/magic-string/download/magic-string-0.25.7.tgz#3f497d6fd34c669c6798dcb821f2ef31f5445051"
+  resolved "https://registry.npmmirror.com/magic-string/download/magic-string-0.25.7.tgz#3f497d6fd34c669c6798dcb821f2ef31f5445051"
   integrity sha1-P0l9b9NMZpxnmNy4IfLvMfVEUFE=
   dependencies:
     sourcemap-codec "^1.4.4"
@@ -364,7 +364,7 @@ ometa@0.2.2:
 
 path-parse@^1.0.6:
   version "1.0.7"
-  resolved "https://registry.nlark.com/path-parse/download/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  resolved "https://registry.npmmirror.com/path-parse/download/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
   integrity sha1-+8EUtgykKzDZ2vWFjkvWi77bZzU=
 
 picocolors@^1.0.0:
@@ -374,7 +374,7 @@ picocolors@^1.0.0:
 
 picomatch@^2.0.4, picomatch@^2.2.1:
   version "2.3.0"
-  resolved "https://registry.nlark.com/picomatch/download/picomatch-2.3.0.tgz#f1f061de8f6a4bf022892e2d128234fb98302972"
+  resolved "https://registry.npmmirror.com/picomatch/download/picomatch-2.3.0.tgz#f1f061de8f6a4bf022892e2d128234fb98302972"
   integrity sha1-8fBh3o9qS/AiiS4tEoI0+5gwKXI=
 
 postcss@^8.1.10, postcss@^8.4.5:
@@ -395,7 +395,7 @@ readdirp@~3.6.0:
 
 resolve@^1.20.0:
   version "1.20.0"
-  resolved "https://registry.nlark.com/resolve/download/resolve-1.20.0.tgz?cache=0&sync_timestamp=1618846903792&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fresolve%2Fdownload%2Fresolve-1.20.0.tgz#629a013fb3f70755d6f0b7935cc1c2c5378b1975"
+  resolved "https://registry.npmmirror.com/resolve/download/resolve-1.20.0.tgz?cache=0&sync_timestamp=1618846903792&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fresolve%2Fdownload%2Fresolve-1.20.0.tgz#629a013fb3f70755d6f0b7935cc1c2c5378b1975"
   integrity sha1-YpoBP7P3B1XW8LeTXMHCxTeLGXU=
   dependencies:
     is-core-module "^2.2.0"
@@ -434,12 +434,12 @@ source-map@^0.6.1:
 
 sourcemap-codec@^1.4.4:
   version "1.4.8"
-  resolved "https://registry.nlark.com/sourcemap-codec/download/sourcemap-codec-1.4.8.tgz#ea804bd94857402e6992d05a38ef1ae35a9ab4c4"
+  resolved "https://registry.npmmirror.com/sourcemap-codec/download/sourcemap-codec-1.4.8.tgz#ea804bd94857402e6992d05a38ef1ae35a9ab4c4"
   integrity sha1-6oBL2UhXQC5pktBaOO8a41qatMQ=
 
 to-regex-range@^5.0.1:
   version "5.0.1"
-  resolved "https://registry.nlark.com/to-regex-range/download/to-regex-range-5.0.1.tgz#1648c44aae7c8d988a326018ed72f5b4dd0392e4"
+  resolved "https://registry.npmmirror.com/to-regex-range/download/to-regex-range-5.0.1.tgz#1648c44aae7c8d988a326018ed72f5b4dd0392e4"
   integrity sha1-FkjESq58jZiKMmAY7XL1tN0DkuQ=
   dependencies:
     is-number "^7.0.0"
