@@ -2,8 +2,8 @@
     { "msgs": ["普通消息，有输入动画"], "msgInputSpeed": 80 },
     { "msgs": ["普通消息支持回退，比如下面这条"], "msgInputSpeed": 80 },
     {
-        "msgs": ["普通消息会回退", "普通消息回退后的结果，也能调整动画速度"],
-        "msgInputSpeed": 80
+        "msgs": ["arrebol", "yyl", "yls"],
+        "msgInputSpeed": 160
     },
     { "msgs": ["普通消息输入快速"], "msgInputSpeed": 40 },
     {
@@ -44,7 +44,7 @@
     { "msgs": ["消息支持输入信件"], "msgInputSpeed": 80 },
     { "msgs": ["看看我想对你说的话"], "msgInputSpeed": 80 },
     {
-        "msgs": ["<letter src='options/demo/letters/test.json'/>"],
+        "msgs": ["<letter src='https://file.tangdouz.com/love/'/>"],
         "triggerNextAction": { "type": "componentClose" }
     },
     { "msgs": ["接下来是一些通用测试"], "msgInputSpeed": 80 },
